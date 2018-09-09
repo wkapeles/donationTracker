@@ -1,5 +1,5 @@
 #tag Class
-Protected Class App
+Protected Class SimpleDonationTracker
 Inherits Application
 	#tag Event
 		Sub Open()
